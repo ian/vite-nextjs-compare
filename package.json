@@ -1,0 +1,12 @@
+{
+  "name": "vite-nextjs-compare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -r start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

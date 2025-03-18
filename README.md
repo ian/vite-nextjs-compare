@@ -12,3 +12,27 @@ A monorepo comparing Vite and Next.js implementations, featuring:
 - `packages/shared`: Shared components and utilities
 
 ## Getting Started
+
+1. Clone the repository
+2. Install dependencies: `pnpm install`
+3. Start the development server: `pnpm dev`
+
+## Deployment
+
+### Vite App
+
+1. Build the app: `pnpm build`
+2. Deploy to Vercel: `vercel --prod`
+
+### Next.js App
+
+1. Build the app: `pnpm build`
+2. Deploy to Vercel: `vercel --prod`
+
+## Comparison
+
+- eslint is disabled in next.config.ts to level the playing field
+
+## License
+
+MIT
